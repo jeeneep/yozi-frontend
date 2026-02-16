@@ -7,7 +7,7 @@
 - 시연 영상 (클릭하여 재생⬇️)
 <p align="center">
   <a href="https://youtu.be/TRbp46-e4iE" target="_blank">
-    <img src="https://i9.ytimg.com/vi/TRbp46-e4iE/mq3.jpg?sqp=CKT76MoG-oaymwEmCMACELQB8quKqQMa8AEB-AHiBYAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLCxp5R2YY04exrfUItBHzh0ynZ0hA" 
+    <img src="https://img.youtube.com/vi/TRbp46-e4iE/mqdefault.jpg" 
          alt="YOZI 시연 영상 썸네일" 
          style="max-width: 500px; border: 2px solid #ddd; border-radius: 8px;">
   </a>
